@@ -1,0 +1,15 @@
+Package: PolyGlyph.theme
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Fossll <nathan.prail@gmail.com>
+Depends: winterboard
+Filename: debs//PolyGlyph.theme
+Size: <deb in bytes>
+MD5sum: <md5 hash of deb>
+SHA1: <sha1 hash of deb>
+SHA256: <sha256 of deb>
+Section: Themes
+Description: PolyGlyph Theme
+Author: Fossll <nathan.prail@gmail.com>
+Depiction: http://fossll.github.io/Depic/PolyGlyph.theme/index.html
+Name: PolyGylph
